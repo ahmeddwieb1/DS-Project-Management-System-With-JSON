@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "Gaming laptop",
+    "category": "Electronics",
+    "priority": "urgent"
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "description": "Smartphone",
+    "category": "Electronics",
+    "priority": "normal"
+  }
+]

@@ -1,0 +1,37 @@
+[ {
+  "id" : 1,
+  "name" : "Laptop",
+  "description" : "Gaming laptop",
+  "category" : "Electronics",
+  "priority" : "urgent"
+}, {
+  "id" : 2,
+  "name" : "Phone",
+  "description" : "Smartphone",
+  "category" : "Electronics",
+  "priority" : "urgent"
+}, {
+  "id" : 3,
+  "name" : "mak",
+  "description" : "lap ",
+  "category" : "lap",
+  "priority" : "urgent"
+}, {
+  "id" : 4,
+  "name" : "zbook ",
+  "description" : "lap ",
+  "category" : "lap",
+  "priority" : "urgent"
+}, {
+  "id" : 5,
+  "name" : "elitebook ",
+  "description" : "lap top ",
+  "category" : "lap tob",
+  "priority" : "normal"
+}, {
+  "id" : 6,
+  "name" : "iphone",
+  "description" : "phone",
+  "category" : "5G 16RAM 256G",
+  "priority" : "normal"
+} ]
